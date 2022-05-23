@@ -1,0 +1,3 @@
+/Users/dennis/Documents/projects/parkours-edge/build/CMakeFiles/ALL_BUILD.dir
+/Users/dennis/Documents/projects/parkours-edge/build/CMakeFiles/ZERO_CHECK.dir
+/Users/dennis/Documents/projects/parkours-edge/build/parkours-edge/CMakeFiles/parkours-edge.dir
